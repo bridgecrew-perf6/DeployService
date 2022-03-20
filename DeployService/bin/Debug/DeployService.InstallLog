@@ -1,0 +1,180 @@
+﻿Installing assembly 'C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.InstallLog
+   assemblypath = C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.exe
+   logtoconsole = 
+Installing service DeployService...
+Creating EventLog source DeployService in log Application...
+Rolling back assembly 'C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.InstallLog
+   assemblypath = C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.exe
+   logtoconsole = 
+Restoring event log to previous state for source DeployService.
+Uninstalling assembly 'C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.InstallLog
+   assemblypath = C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.exe
+Removing EventLog source DeployService.
+Service DeployService is being removed from the system...
+Service DeployService was successfully removed from the system.
+Installing assembly 'C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.InstallLog
+   assemblypath = C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.exe
+   logtoconsole = 
+Installing service DeployService...
+Service DeployService has been successfully installed.
+Creating EventLog source DeployService in log Application...
+Committing assembly 'C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.InstallLog
+   assemblypath = C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.InstallLog
+   assemblypath = C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.exe
+   logtoconsole = 
+Installing service DeployService...
+Service DeployService has been successfully installed.
+Creating EventLog source DeployService in log Application...
+Committing assembly 'C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.InstallLog
+   assemblypath = C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.InstallLog
+   assemblypath = C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.exe
+   logtoconsole = 
+Installing service DeployService...
+Creating EventLog source DeployService in log Application...
+Rolling back assembly 'C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.InstallLog
+   assemblypath = C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.exe
+   logtoconsole = 
+Restoring event log to previous state for source DeployService.
+Uninstalling assembly 'C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.InstallLog
+   assemblypath = C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.exe
+Removing EventLog source DeployService.
+Service DeployService is being removed from the system...
+Service DeployService was successfully removed from the system.
+Installing assembly 'C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.InstallLog
+   assemblypath = C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.exe
+   logtoconsole = 
+Installing service DeployService...
+Service DeployService has been successfully installed.
+Creating EventLog source DeployService in log Application...
+Committing assembly 'C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.InstallLog
+   assemblypath = C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.InstallLog
+   assemblypath = C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.exe
+   logtoconsole = 
+Installing service DeployService...
+Creating EventLog source DeployService in log Application...
+Rolling back assembly 'C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.InstallLog
+   assemblypath = C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.exe
+   logtoconsole = 
+Restoring event log to previous state for source DeployService.
+Uninstalling assembly 'C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.InstallLog
+   assemblypath = C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.exe
+Removing EventLog source DeployService.
+Service DeployService is being removed from the system...
+Service DeployService was successfully removed from the system.
+Installing assembly 'C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.InstallLog
+   assemblypath = C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.exe
+   logtoconsole = 
+Installing service DeployService...
+Service DeployService has been successfully installed.
+Creating EventLog source DeployService in log Application...
+Committing assembly 'C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.InstallLog
+   assemblypath = C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.InstallLog
+   assemblypath = C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.exe
+Installing service DeployService...
+Creating EventLog source DeployService in log Application...
+Rolling back assembly 'C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.InstallLog
+   assemblypath = C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.exe
+Restoring event log to previous state for source DeployService.
+Uninstalling assembly 'C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.InstallLog
+   assemblypath = C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.exe
+Removing EventLog source DeployService.
+Service DeployService is being removed from the system...
+Service DeployService was successfully removed from the system.
+Installing assembly 'C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.InstallLog
+   assemblypath = C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.exe
+   logtoconsole = 
+Installing service DeployService...
+Service DeployService has been successfully installed.
+Creating EventLog source DeployService in log Application...
+Committing assembly 'C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.InstallLog
+   assemblypath = C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.InstallLog
+   assemblypath = C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.exe
+   logtoconsole = 
+Installing service DeployService...
+Service DeployService has been successfully installed.
+Creating EventLog source DeployService in log Application...
+Committing assembly 'C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.InstallLog
+   assemblypath = C:\Users\Hodaya\source\repos\DeployService\bin\Debug\DeployService.exe
+   logtoconsole = 
